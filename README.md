@@ -14,7 +14,7 @@
 > - **[Dominique Simbillo](https://github.com/PrgDominique)**
 > - **[Elmo Nickol Laplap](https://github.com/elmonickcool)**
 > - **[Janus Paul Imus](https://github.com/januspaul)**
-> - **[wt404](https://github.com/wt404)**
+> - **[Jason Lerit](https://github.com/jasonlerit)**
 
 ---
 
